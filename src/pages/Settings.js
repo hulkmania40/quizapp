@@ -38,7 +38,7 @@ export default function Settings() {
 
   const typeOptions=[
     {id:"multiple", name:"Multiple Choice"},
-    {id:"boolean", name:"True/False"},
+    // {id:"boolean", name:"True/False"},
   ]
 
   const handleSubmit = e =>{
